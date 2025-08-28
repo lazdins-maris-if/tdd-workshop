@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailHandler", "EmailHandler\EmailHandler.csproj", "{6570ABA0-F028-4FE6-A883-E245CC7CFEED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailHandler.Tests", "EmailHandler.Tests\EmailHandler.Tests.csproj", "{34F34A0E-8FCF-414A-973D-2DF36BED11EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6570ABA0-F028-4FE6-A883-E245CC7CFEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6570ABA0-F028-4FE6-A883-E245CC7CFEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6570ABA0-F028-4FE6-A883-E245CC7CFEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6570ABA0-F028-4FE6-A883-E245CC7CFEED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F34A0E-8FCF-414A-973D-2DF36BED11EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F34A0E-8FCF-414A-973D-2DF36BED11EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F34A0E-8FCF-414A-973D-2DF36BED11EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F34A0E-8FCF-414A-973D-2DF36BED11EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF441078-B0B0-45D4-BD64-5ECA832F7046}
+	EndGlobalSection
+EndGlobal
